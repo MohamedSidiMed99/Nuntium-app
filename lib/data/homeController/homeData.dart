@@ -1,0 +1,7 @@
+
+
+class HomeDataController{
+    List data = [
+
+    ];
+}
